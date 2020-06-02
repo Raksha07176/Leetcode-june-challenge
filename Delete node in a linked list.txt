@@ -1,0 +1,19 @@
+//We are given a linked list and we need to delete a node
+// no head is given and tail node is not to be deleted.
+
+class Solution{
+public: 
+      void deleteNode(ListNode* node)
+      {
+          ListNode* cur=node;
+          ListNode* temp;
+          while(cur->next!=NULL)
+          {
+              temp=cur;
+              cur->val=cur->next->val;
+              cur=cur->next;
+          }
+          temp->next=NULL;
+          delete(cur);
+      }
+}
