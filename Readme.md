@@ -9,3 +9,4 @@
 | 5 | Random pick with height | N/A| O(n)| O(1) |
 | 6 | Power of Two  | N/A| O(n)| O(1) |
 | 7 | Is Subsequence| N/A| O(t)| O(1) |
+| 8 | Search Insert operation| Binary operation| O(logn)| O(1) |
