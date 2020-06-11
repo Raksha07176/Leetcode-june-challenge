@@ -7,6 +7,6 @@
 | 3 | Two city Scheduling | Sorting | O(n^2) | O(1) |
 | 4 | Reverse String | Swap | O(n)| O(1) |
 | 5 | Random pick with height | N/A| O(n)| O(1) |
-| 6 | Power of Two  | N/A| O(n)| O(1) |
+| 6 | Power of Two  | Brute force| O(n)| O(1) |
 | 7 | Is Subsequence| N/A| O(t)| O(1) |
-| 8 | Search Insert operation| Binary operation| O(logn)| O(1) |
+| 8 | Search Insert operation| Binary search| O(logn)| O(1) |
