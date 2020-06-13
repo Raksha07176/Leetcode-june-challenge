@@ -11,3 +11,4 @@
 | 7 | Is Subsequence| N/A| O(t)| O(1) |
 | 8 | Search Insert operation| Binary search| O(logn)| O(1) |
 | 9 | Sort colors| N/A| O(logn)| O(1) |
+| 10 | Insert delete getrandom O(1)|Hashing|O(n)| O(1) |
