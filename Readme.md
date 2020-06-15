@@ -13,3 +13,4 @@
 | 9 | Sort colors| N/A| O(nlogn)| O(1) |
 | 10 | Insert delete getrandom O(1)|Hashing|O(1)| O(n) |
 | 11 | Search in a binary search tree|Recursive|O(log n)| O(n) |
+| 12 | Invert Binary Tree| Queue | O(n) | O(n) |
