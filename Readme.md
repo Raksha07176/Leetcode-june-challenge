@@ -15,3 +15,4 @@
 | 11 | Search in a binary search tree|Recursive|O(log n)| O(n) |
 | 12 | Invert Binary Tree| Queue | O(n) | O(n) |
 | 13 | Surrounded Regions| DFS | O(m+n) | O(n) |
+| 14 | H-Index II| Binary search | O(logn) | O(1) |
