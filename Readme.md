@@ -16,3 +16,4 @@
 | 12 | Invert Binary Tree| Queue | O(n) | O(n) |
 | 13 | Surrounded Regions| DFS | O(m+n) | O(n) |
 | 14 | H-Index II| Binary search | O(logn) | O(1) |
+| 15 | Permutation Sequence| N/A| O(n) | O(1) |
