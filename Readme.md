@@ -20,3 +20,4 @@
 | 16 | Dungeon Game| DP| O(r*c) | O(r) |
 | 17 | Single Number II| N/A| O(n) | O(1) |
 | 18 | Count complete tree nodes| Recursive| O(n) | O(1) |
+| 19 | Unique Binary Search Trees| N/A| O(n) | O(1) |
