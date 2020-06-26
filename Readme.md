@@ -21,3 +21,4 @@
 | 17 | Single Number II| N/A| O(n) | O(1) |
 | 18 | Count complete tree nodes| Recursive| O(n) | O(1) |
 | 19 | Unique Binary Search Trees| N/A| O(n) | O(1) |
+| 20 | Find the duplicate number| Floyd's cycle algorithm| O(n) | O(1) |
