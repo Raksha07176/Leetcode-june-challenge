@@ -22,3 +22,5 @@
 | 18 | Count complete tree nodes| Recursive| O(n) | O(1) |
 | 19 | Unique Binary Search Trees| N/A| O(n) | O(1) |
 | 20 | Find the duplicate number| Floyd's cycle algorithm| O(n) | O(1) |
+| 21 | Sum root to leaf nodes| N/A| O(n) | O(1) |
+| 22 | Perfect Squares| DP | O(n) | O(1) |
