@@ -24,3 +24,4 @@
 | 20 | Find the duplicate number| Floyd's cycle algorithm| O(n) | O(1) |
 | 21 | Sum root to leaf nodes| N/A| O(n) | O(1) |
 | 22 | Perfect Squares| DP | O(n) | O(1) |
+| 23 | Unique Paths| DP | O(n^2) | O(1) |
